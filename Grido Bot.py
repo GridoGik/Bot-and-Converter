@@ -1,4 +1,3 @@
-
 from random import randint
 badwords=['shit', 'fuck', 'fucking', 'fuckin', 'dick']
 print('Hello! I am Grido, a talking bot. Lets start here. But firstly, what is your name?')
