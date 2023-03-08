@@ -21,7 +21,7 @@ if a=='ask':
         elif c==4:
            print('  Standard green. Basic and unrepeatable')
         elif c==5:
-           print('  Dark green. Looks')
+           print('  Dark green. Looks like green but dark')
             
             
     if b=='Can you kill humanity?':
