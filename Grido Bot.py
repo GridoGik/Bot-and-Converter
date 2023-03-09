@@ -24,8 +24,8 @@ if a=='ask':
            print('  Dark green. Looks like green but dark')
             
             
-    if b=='Can you kill humanity?':
-        print("Ho, of course yes. But I don't want. Still.")
+    if b=='Which tea you will try?':
+        print("Only green, people say that this is more tasty than black, so.")
 
 
 
