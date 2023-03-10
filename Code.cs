@@ -1,6 +1,8 @@
+using System;
 main void() {
 printf('Hello, world!')
-z = 37
-c = 94
-ux = z + c
+int z = 37
+int c = 94
+int ux = z + c
+printf(ux/6.0)
 }
