@@ -1,3 +1,3 @@
-main void()
+main void() {
 printf('Hello, world!')
-ushort max.value
+ushort max.value }
