@@ -1,3 +1,6 @@
 main void() {
 printf('Hello, world!')
-ushort max.value }
+z = 37
+c = 94
+ux = z + c
+}
