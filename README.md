@@ -1,5 +1,4 @@
 This repository is a package of Python and C# based code and programs. This repository contains:
-Grido Bot - talking bot which can answer, tell a joke and e.t.c.
 Omega Converter - program for converting phys units, quantities and values in other formats (Will be there in future)
 Shotgun SPAS-12 model in .blend format (For Blender 3D) (Will be there in future)
 And many other mini programs
